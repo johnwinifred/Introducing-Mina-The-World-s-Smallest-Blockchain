@@ -7,7 +7,7 @@ Well, meet **Mina**, the world's lightest blockchain.
 
 Don't like reading?  
 Watch this quick video to understand Mina 👇  
-[![Mina Blockchain Video](https://img.youtube.com/vi/6jIE50c2gww/0.jpg)(https://youtu.be/6jIE50c2gww)  
+[Mina Blockchain Video](https://youtu.be/6jIE50c2gww)  
 
 
 ---
